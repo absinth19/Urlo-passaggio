@@ -21,3 +21,4 @@ psutil
 anyio
 telethon
 av
+aiohttp
